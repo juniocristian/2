@@ -34,7 +34,7 @@ const useStyles = makeStyles(theme => ({
 		width: "100vw",
 		height: "100vh",
 		//background: "linear-gradient(to right, #191970 , #00008B , #0000FF)", //Cor de fundo
-		 backgroundImage: "url(https://helloclique.com.br/imagens/logo1.png)",
+		 backgroundColor: "#fff",
 		 backgroundRepeat: "no-repeat",
 		 backgroundSize: "100% 100%",
 		 backgroundPosition: "center",
@@ -45,7 +45,7 @@ const useStyles = makeStyles(theme => ({
 		textAlign: "center",
 	},
 	paper: {
-		backgroundColor: "#13703c",
+		backgroundColor: "#fff",
 		display: "flex",
 		flexDirection: "column",
 		alignItems: "center",
