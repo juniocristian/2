@@ -45,7 +45,7 @@ const useStyles = makeStyles(theme => ({
 		textAlign: "center",
 	},
 	paper: {
-		backgroundColor: "#fff",
+		backgroundColor: "#f3f3f3",
 		display: "flex",
 		flexDirection: "column",
 		alignItems: "center",
@@ -146,7 +146,7 @@ const Login = () => {
 				</form>
 			</div>
 			<br/>
-			<a target="_blank" href="https://helloclique.com.br" className={classes.powered}>Hello Clique / Hello Drop - https://helloclique.com.br</a>
+			
 			<Box mt={8}>{/* <Copyright /> */}</Box>
 		</Container>
 		</div>
